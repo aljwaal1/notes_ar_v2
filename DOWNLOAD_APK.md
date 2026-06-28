@@ -1,13 +1,9 @@
 # تحميل ملاحظاتي اليومية
 
-بعد تشغيل GitHub Actions ونجاح البناء سيظهر APK هنا:
+APK مباشر:
 
-```text
+https://github.com/aljwaal1/notes_ar_v2/raw/main/apk/daily-notes.apk
+
+المسار داخل المستودع:
+
 apk/daily-notes.apk
-```
-
-رابط مباشر بعد رفع المشروع:
-
-```text
-https://github.com/USERNAME/REPO/raw/main/apk/daily-notes.apk
-```
